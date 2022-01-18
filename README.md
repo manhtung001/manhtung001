@@ -3,7 +3,7 @@ Nice to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=manht
 
 <br />
  
-### <div align="center">⚡ I'm Khổng Mạnh Tùng - AI/ML Engineer - React Native Developer 🌎</div>
+### <div align="center">⚡ I'm Khổng Mạnh Tùng - AI/ML Engineer 🌎</div>
 
 <br/>
 
