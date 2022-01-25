@@ -13,7 +13,7 @@ Nice to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=manht
 ## About me
 ###  <div align="center"> <a href="https://www.facebook.com/KambriaNetwork/posts/889369005090505" target="_blank">Winner of Respiratory Sound Anomaly Detection KO Hackathon II 2021 at Kambria</a> </div>
 <a href="https://www.facebook.com/KambriaNetwork/posts/889369005090505">
-<img align="center" src="https://scontent.fhan3-3.fna.fbcdn.net/v/t39.30808-6/271600000_889368905090515_3893341209363060570_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=YPJsHFCGXVAAX_Lj5zA&_nc_ht=scontent.fhan3-3.fna&oh=00_AT_BompwUUpLOh9Gwvk35O2FE1JvgzbIiMlWMi4JFJb55Q&oe=61E98B8B" />
+<img align="center" src="https://i.imgur.com/Vgp3R3n.jpeg" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@ Nice to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=manht
 
 ###  <div align="center"> <a href="https://www.facebook.com/DevCVNInnovationChallenge/posts/3429960767101787" target="_blank">TNTech winning team 2020 at Developer Circles Vietnam Innovation Challenge</a></div>
 <a href="https://www.facebook.com/DevCVNInnovationChallenge/posts/3429960767101787">
-<img align="center" src="https://scontent.fhan5-3.fna.fbcdn.net/v/t1.6435-9/129370832_2736490476603604_2157045739373059210_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=WvgMyUhvy2EAX8QRlpl&tn=jBw6vsVTVzKezUI9&_nc_ht=scontent.fhan5-3.fna&oh=00_AT-FfZ6Mt-DeZHRMLoj4V-wA2zLG37z5n96vgXdhxSfyig&oe=62091649" />
+<img align="center" src="https://i.imgur.com/HwPaMJF.jpeg" />
 </a> 
 <br/>
 
