@@ -52,3 +52,7 @@ Nice to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=manht
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=manhtung001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hiep's Github Stats"></p>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhtung001&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+https://atlas.mindmup.com/andyhanoi/ptit_infosec/index.html
+
+https://phamthainb.github.io/ptit-quizz/atbm/index.html
