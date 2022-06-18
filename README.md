@@ -53,8 +53,4 @@ Nice to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=manht
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhtung001&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-https://atlas.mindmup.com/andyhanoi/ptit_infosec/index.html
-
-https://phamthainb.github.io/ptit-quizz/atbm/index.html
-
-https://drive.google.com/drive/folders/18-O4NHvyluuj1rFYVE0ou-JmauvM0At_?usp=sharing
+https://docs.google.com/document/d/1boUeb51gxJDsEV4etWuQDOAM7ByR_5yQ/edit?usp=sharing&ouid=101544662167781363877&rtpof=true&sd=true
