@@ -57,6 +57,6 @@ https://docs.google.com/document/d/1boUeb51gxJDsEV4etWuQDOAM7ByR_5yQ/edit?usp=sh
 
 https://drive.google.com/file/d/1-T0Hyq1PMqJ1jYzsiCHPJh8Th52N3SvZ/view?usp=sharing
 
-https://docs.google.com/document/d/1WuA2Dt7_DQTTUXmFedtFpAMv3fSpRbyq/edit?usp=sharing&ouid=101544662167781363877&rtpof=true&sd=true
+https://docs.google.com/document/d/1IzCGJLHmuvGhbnNP-EQbOasbvOj5IXRi/edit?usp=sharing&ouid=101544662167781363877&rtpof=true&sd=true
 
-https://drive.google.com/file/d/16EzcnYLHzJjeK9NVnX4TFhBAtxWYf7xS/view?usp=sharing
+https://drive.google.com/file/d/1A_Kwdb--Ahz_RTxZVzzk8DqHtzT2d2bG/view?usp=sharing
