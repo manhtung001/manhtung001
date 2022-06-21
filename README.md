@@ -56,3 +56,7 @@ Nice to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=manht
 https://docs.google.com/document/d/1boUeb51gxJDsEV4etWuQDOAM7ByR_5yQ/edit?usp=sharing&ouid=101544662167781363877&rtpof=true&sd=true
 
 https://drive.google.com/file/d/1-T0Hyq1PMqJ1jYzsiCHPJh8Th52N3SvZ/view?usp=sharing
+
+https://docs.google.com/document/d/1WuA2Dt7_DQTTUXmFedtFpAMv3fSpRbyq/edit?usp=sharing&ouid=101544662167781363877&rtpof=true&sd=true
+
+https://drive.google.com/file/d/16EzcnYLHzJjeK9NVnX4TFhBAtxWYf7xS/view?usp=sharing
