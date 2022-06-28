@@ -52,11 +52,3 @@ Nice to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=manht
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=manhtung001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hiep's Github Stats"></p>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhtung001&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-https://docs.google.com/document/d/1boUeb51gxJDsEV4etWuQDOAM7ByR_5yQ/edit?usp=sharing&ouid=101544662167781363877&rtpof=true&sd=true
-
-https://drive.google.com/file/d/1-T0Hyq1PMqJ1jYzsiCHPJh8Th52N3SvZ/view?usp=sharing
-
-https://docs.google.com/document/d/1IzCGJLHmuvGhbnNP-EQbOasbvOj5IXRi/edit?usp=sharing&ouid=101544662167781363877&rtpof=true&sd=true
-
-https://drive.google.com/file/d/1MMwUq_fyB_AphNNoPxzDFGTVlhoDrd9v/view?usp=sharing
