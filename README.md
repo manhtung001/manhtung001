@@ -1,5 +1,5 @@
 ### Hello world <img src="https://media2.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47m0knl5dx9e5awx1kl66rgh1b4ubfo4le4rnx9tuq&rid=giphy.gif&ct=g" width="15px">
-Nice to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=manhtung001.manhtung001)  
+&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=manhtung001.manhtung001)  
 
 <br />
  
