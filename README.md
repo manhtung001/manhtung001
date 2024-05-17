@@ -3,7 +3,7 @@
 
 <br />
  
-### <div align="center">⚡ I'm Khổng Mạnh Tùng - AI/ML Engineer 🌎</div>
+### <div align="center">⚡ I'm Tung Manh Khong - AI/ML Engineer 🌎</div>
 
 <br/>
 
